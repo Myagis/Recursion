@@ -1,0 +1,10 @@
+﻿9
+IF01 Programavimoįvadas 0
+IF02 Diskrečiojimatematika 1 IF01
+IF03 Duomenųstruktūros 2 IF01 IF02
+IF04 Skaitmeninėlogika 0
+IF05 Matematinėlogika 1 IF04
+IF06 Operacijųoptimizavimas 1 IF05
+IF07 Algoritmųanalizė 2 IF03 IF06
+IF08 Programavimokalbųteorija 1 IF03
+IF09 Operacinėssistemos 2 IF07 IF08
